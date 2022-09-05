@@ -1,1 +1,1 @@
-Display the number of lines that contain the pattern binin the file /etc/passwd
+Display lines containing the pattern rootand 3 lines after them in the file /etc/passwd.
